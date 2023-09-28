@@ -1,39 +1,28 @@
 
 const About = () => {
   return (
-    <div name='about' className='w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white'>
+    <div name='about' className='w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white '>
         <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full' >
             <div className='pb-8'>
-                <p className='text-4xl font-bold inline border-b-4 border-gray-500'>
+                <p className='text-4xl font-bold inline border-b-4 border-gray-500 '>
                     About
                 </p>
             </div>
-                <p className='text-xl mt-20'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Ipsam corrupti placeat voluptatem distinctio dolor exercitationem 
-                    numquam ipsa perspiciatis culpa architecto minima quas, ullam obcaecati 
-                    facere tempore consectetur dicta hic non tenetur, rerum enim illo ipsum 
-                    delectus explicabo! Officiis nemo, et, sint esse modi eligendi placeat 
-                    obcaecati minus at rem consequatur fugiat ut? Aut corporis minima iure 
-                    vero maxime a ducimus numquam similique delectus consequuntur tempore 
-                    adipisci nostrum, labore perspiciatis unde ullam? Omnis sit alias 
-                    distinctio qui! Optio dolores explicabo hic impedit possimus cupiditate 
-                    nesciunt, magni ab voluptas dolor a nulla minima. Numquam itaque fugiat repellat 
-                    labore ea neque ex id.
+                <p className='text-xl mt-20 mb-5'>
+                    Hello, my name is Brandon David Zarate Estrada and I am a Senior 
+                    studying Computer Science at UC Davis! I am a full-stack developer 
+                    because I enjoy working on both the front-end and back-end of 
+                    applications. I am passionate about learning new technologies and
+                    I am always looking for new opportunities to grow as a developer!
                 </p>
-                <br/>
+                <p className='text-xl mb-5'>
+                    Some of my hobbies include running, soccer, guitar, and hangingout with friends.
+                    I am listening to music 24/7 and I am always looking for new music to listen to.
+                </p>
                 <p className='text-xl'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Ipsam corrupti placeat voluptatem distinctio dolor exercitationem 
-                    numquam ipsa perspiciatis culpa architecto minima quas, ullam obcaecati 
-                    facere tempore consectetur dicta hic non tenetur, rerum enim illo ipsum 
-                    delectus explicabo! Officiis nemo, et, sint esse modi eligendi placeat 
-                    obcaecati minus at rem consequatur fugiat ut? Aut corporis minima iure 
-                    vero maxime a ducimus numquam similique delectus consequuntur tempore 
-                    adipisci nostrum, labore perspiciatis unde ullam? Omnis sit alias 
-                    distinctio qui! Optio dolores explicabo hic impedit possimus cupiditate 
-                    nesciunt, magni ab voluptas dolor a nulla minima. Numquam itaque fugiat repellat 
-                    labore ea neque ex id.
+                    I am currently looking for internships and full-time position post graduation. 
+                    I am also looking to work with others right now! If you are interested in working
+                    together, feel free to reach out to me!
                 </p>
                 <br/>
         </div>
