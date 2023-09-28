@@ -1,4 +1,5 @@
 import selfCartoon from '../assets/selfCartoon.png'
+import selfReal from '../assets/selfYos2.png'
 import { MdOutlineKeyboardArrowRight, MdOutlineKeyboardArrowDown } from 'react-icons/md'
 
 
@@ -23,7 +24,7 @@ const Home = () => {
             </button>
           </div>
           <div>
-            <img src={selfCartoon} alt="cartoon of myself" className='rounded-2xl mx-auto w-2/3 md:w-full'/>
+            <img src={selfReal} alt="cartoon of myself" className='rounded-2xl mx-auto w-2/3 md:w-full'/>
           </div>
       </div>
     </div>
