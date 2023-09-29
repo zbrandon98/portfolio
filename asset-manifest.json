@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.298aecfd.css",
-    "main.js": "/static/js/main.dd509544.js",
-    "static/media/gamingCenter.png": "/static/media/gamingCenter.1ad72fbe0a355f6b5116.png",
-    "static/media/ucbAdmissions.png": "/static/media/ucbAdmissions.cba9152449eaa4ce2f06.png",
-    "static/media/selfYos2.png": "/static/media/selfYos2.5cc675e143cba61ad5b2.png",
-    "static/media/selfCartoon.png": "/static/media/selfCartoon.e3f9f5fe4a66fc4a6ed8.png",
-    "static/media/icons8-react-160.png": "/static/media/icons8-react-160.89996b225745a7b82cf2.png",
-    "index.html": "/index.html",
-    "main.298aecfd.css.map": "/static/css/main.298aecfd.css.map",
-    "main.dd509544.js.map": "/static/js/main.dd509544.js.map"
+    "main.css": "/portfolio/static/css/main.298aecfd.css",
+    "main.js": "/portfolio/static/js/main.4ff1a55a.js",
+    "static/media/gamingCenter.png": "/portfolio/static/media/gamingCenter.1ad72fbe0a355f6b5116.png",
+    "static/media/ucbAdmissions.png": "/portfolio/static/media/ucbAdmissions.cba9152449eaa4ce2f06.png",
+    "static/media/selfYos2.png": "/portfolio/static/media/selfYos2.5cc675e143cba61ad5b2.png",
+    "static/media/selfCartoon.png": "/portfolio/static/media/selfCartoon.e3f9f5fe4a66fc4a6ed8.png",
+    "static/media/icons8-react-160.png": "/portfolio/static/media/icons8-react-160.89996b225745a7b82cf2.png",
+    "index.html": "/portfolio/index.html",
+    "main.298aecfd.css.map": "/portfolio/static/css/main.298aecfd.css.map",
+    "main.4ff1a55a.js.map": "/portfolio/static/js/main.4ff1a55a.js.map"
   },
   "entrypoints": [
     "static/css/main.298aecfd.css",
-    "static/js/main.dd509544.js"
+    "static/js/main.4ff1a55a.js"
   ]
 }
