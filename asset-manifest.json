@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/:/zbrandon98.github.io/portfolio/static/css/main.298aecfd.css",
+    "main.js": "/:/zbrandon98.github.io/portfolio/static/js/main.b8c14861.js",
+    "static/media/gamingCenter.png": "/:/zbrandon98.github.io/portfolio/static/media/gamingCenter.1ad72fbe0a355f6b5116.png",
+    "static/media/ucbAdmissions.png": "/:/zbrandon98.github.io/portfolio/static/media/ucbAdmissions.cba9152449eaa4ce2f06.png",
+    "static/media/selfYos2.png": "/:/zbrandon98.github.io/portfolio/static/media/selfYos2.5cc675e143cba61ad5b2.png",
+    "static/media/selfCartoon.png": "/:/zbrandon98.github.io/portfolio/static/media/selfCartoon.e3f9f5fe4a66fc4a6ed8.png",
+    "static/media/icons8-react-160.png": "/:/zbrandon98.github.io/portfolio/static/media/icons8-react-160.89996b225745a7b82cf2.png",
+    "index.html": "/:/zbrandon98.github.io/portfolio/index.html",
+    "main.298aecfd.css.map": "/:/zbrandon98.github.io/portfolio/static/css/main.298aecfd.css.map",
+    "main.b8c14861.js.map": "/:/zbrandon98.github.io/portfolio/static/js/main.b8c14861.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.298aecfd.css",
+    "static/js/main.b8c14861.js"
+  ]
+}
