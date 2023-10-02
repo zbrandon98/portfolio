@@ -1,5 +1,6 @@
 import gamingCenter from '../assets/gamingCenter.png'
 import ucbAdmissions from '../assets/ucbAdmissions.png'
+import ecommerce from '../assets/django-python.png'
 
 const Portfolio = () => {
 
@@ -20,6 +21,12 @@ const Portfolio = () => {
             demo: '',
 
         },
+        {
+            id: 3,
+            title: 'E-commerce Website (WIP)',
+            src: ecommerce,
+            code: 'https://github.com/zbrandon98/eCommerceStoreFront',
+        }
     ]
   return (
     <div name='portfolio' className='bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen'>
