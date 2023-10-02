@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.cbb88b3d.css",
-    "main.js": "/portfolio/static/js/main.a0429ccf.js",
-    "static/media/gamingCenter.png": "/portfolio/static/media/gamingCenter.1ad72fbe0a355f6b5116.png",
-    "static/media/ucbAdmissions.png": "/portfolio/static/media/ucbAdmissions.cba9152449eaa4ce2f06.png",
-    "static/media/selfYos2.png": "/portfolio/static/media/selfYos2.5cc675e143cba61ad5b2.png",
-    "static/media/django-python.png": "/portfolio/static/media/django-python.adfd87888551c4f53e4e.png",
-    "static/media/icons8-react-160.png": "/portfolio/static/media/icons8-react-160.89996b225745a7b82cf2.png",
-    "index.html": "/portfolio/index.html",
-    "main.cbb88b3d.css.map": "/portfolio/static/css/main.cbb88b3d.css.map",
-    "main.a0429ccf.js.map": "/portfolio/static/js/main.a0429ccf.js.map"
+    "main.css": "/static/css/main.cbb88b3d.css",
+    "main.js": "/static/js/main.4fc7a16c.js",
+    "static/media/gamingCenter.png": "/static/media/gamingCenter.1ad72fbe0a355f6b5116.png",
+    "static/media/ucbAdmissions.png": "/static/media/ucbAdmissions.cba9152449eaa4ce2f06.png",
+    "static/media/selfYos2.png": "/static/media/selfYos2.5cc675e143cba61ad5b2.png",
+    "static/media/django-python.png": "/static/media/django-python.adfd87888551c4f53e4e.png",
+    "static/media/icons8-react-160.png": "/static/media/icons8-react-160.89996b225745a7b82cf2.png",
+    "index.html": "/index.html",
+    "main.cbb88b3d.css.map": "/static/css/main.cbb88b3d.css.map",
+    "main.4fc7a16c.js.map": "/static/js/main.4fc7a16c.js.map"
   },
   "entrypoints": [
     "static/css/main.cbb88b3d.css",
-    "static/js/main.a0429ccf.js"
+    "static/js/main.4fc7a16c.js"
   ]
 }
